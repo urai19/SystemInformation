@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@amplitude/node": "^1.10.0",
+    "systeminformation": "^4.34.23"
+  },
+  "name": "systeminformationtest",
+  "version": "1.0.0",
+  "description": "Testing systeminformation package",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Udayan Rai",
+  "license": "ISC"
+}
